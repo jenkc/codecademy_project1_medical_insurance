@@ -1,7 +1,14 @@
-# codecademy_project1_medical_insurance
-First portfolio project for the Codeacademy Data Science Career Path
+Codecademy Data Science Portfolio Project 1: Medical Insurance
 
-Tasks: (from Codecademy)
+First portfolio project for the Codeacademy Data Science Career Path
+    
+Repo includes:
+    README.txt      contents and tasks
+    insurance.csv   .csv file provided by Codecademy
+    project1.ipynb  Jupyter Notebook
+    project1.py     Python 3.7.3 script
+
+Tasks:
     Look over your dataset
         Open insurance.csv and take a look at the file
     Scoping your project
@@ -17,7 +24,8 @@ Tasks: (from Codecademy)
             (with no children, to remove that variable from the analysis)
           - compare average BMI of female patients with children to average BMI of female patients without children
     Import your dataset
-        - Import insurance.csv into your Python file.  Make sure the information is easy to access.
+        - Import insurance.csv into your Python file  
+        - Make sure the information is easy to access
     Save your dataset via Python variables
         - Organize the information from insurance.csv in variables that can be used for analysis
     Buid out analysis functions or class methods
